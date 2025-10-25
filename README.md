@@ -2,7 +2,7 @@
 
   thsi is a simple bank dashboard structure using react 
 
-![app website ]
+![ bank app website ](/app-bank/assets/reactbankapp.png)
 
 ## Available Scripts
 
