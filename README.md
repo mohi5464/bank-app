@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create bank-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  thsi is a simple bank dashboard structure using react 
+
+![app website ]
 
 ## Available Scripts
 
